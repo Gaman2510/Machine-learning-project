@@ -1,6 +1,7 @@
 🔬 **Predictive Analysis of Lung Cancer using Machine Learning**
 
-This project aims to predict the risk of lung cancer in patients using machine learning techniques.
+This project aims to predict risk of lung cancer in patients using machine learning techniques.
+
 ------
 📊 **Dataset**
 
